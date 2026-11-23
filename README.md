@@ -49,44 +49,8 @@ Perangkat yang digunakan dalam pengembangan aplikasi:
 
 Project disusun dengan pembagian folder sebagai berikut:
 
-```text
-Lab9Web/
-│
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   ├── gambar/
-│   └── js/
-│
-├── config/
-│   └── database.php
-│
-├── helpers/
-│   └── functions.php
-│
-├── modules/
-│   ├── auth/
-│   │   ├── login.php
-│   │   └── logout.php
-│   │
-│   └── user/
-│       ├── add.php
-│       ├── delete.php
-│       ├── edit.php
-│       └── list.php
-│
-├── views/
-│   ├── 404.php
-│   ├── dashboard.php
-│   ├── header.php
-│   └── footer.php
-│
-├── Screenshoot/
-├── .htaccess
-├── data_barang.sql
-├── index.php
-└── README.md
-```
+<img width="402" height="748" alt="Screenshot 2026-11-24 014255" src="https://github.com/user-attachments/assets/e12613e7-8556-46b8-bbe7-ee5ed5af5e47" />
+
 
 ### Kegunaan setiap bagian
 
@@ -223,3 +187,4 @@ Project ini menjadi latihan untuk memahami bagaimana sebuah aplikasi PHP dapat d
 ---
 
 **Praktikum 9 — Pemrograman Web**
+
