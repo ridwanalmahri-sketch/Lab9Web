@@ -11,12 +11,25 @@ Dalam pengembangannya, kode aplikasi dipisahkan ke beberapa direktori agar setia
 Fitur yang dikembangkan meliputi:
 
 - Menampilkan daftar barang.
+<img width="1919" height="990" alt="Screenshot 2026-11-24 013800" src="https://github.com/user-attachments/assets/3953a3fe-25bc-48e0-b6c9-19a264d9dc64" />
+
 - Menambahkan barang baru.
+<img width="1919" height="1002" alt="Screenshot 2026-11-24 013821" src="https://github.com/user-attachments/assets/839d44ef-a066-4a00-8844-fe6e8aab2685" />
+
 - Mengubah informasi barang.
+<img width="1913" height="1003" alt="Screenshot 2026-11-24 014714" src="https://github.com/user-attachments/assets/cf2432f4-d406-4823-ab5c-a31cfb182956" />
+
 - Menghapus data barang.
+<img width="1919" height="985" alt="Screenshot 2026-11-24 014804" src="https://github.com/user-attachments/assets/c01f2a71-cfcc-42ab-ad61-4558f702a785" />
+
 - Menampilkan gambar produk.
+<img width="1919" height="990" alt="Screenshot 2026-11-24 013800" src="https://github.com/user-attachments/assets/c3e320a3-715c-4bd3-9fbd-3d8c0a660544" />
+
 - Login dan logout administrator.
+<img width="1912" height="983" alt="Screenshot 2026-11-24 013905" src="https://github.com/user-attachments/assets/1c3d2273-528f-4d75-86cb-e47375fa1eeb" />
+
 - Mengatur perpindahan halaman melalui routing.
+
 
 ## 2. Tujuan Pembuatan
 
@@ -187,4 +200,5 @@ Project ini menjadi latihan untuk memahami bagaimana sebuah aplikasi PHP dapat d
 ---
 
 **Praktikum 9 — Pemrograman Web**
+
 
