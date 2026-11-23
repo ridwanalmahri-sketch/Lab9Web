@@ -1,0 +1,97 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f1f5f9;
+    color: #263238;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 30px auto;
+    background: white;
+    padding: 24px;
+    border-radius: 8px;
+}
+
+header {
+    background: #1e40af;
+    color: white;
+    padding: 20px;
+    border-radius: 6px;
+}
+
+header h1 {
+    margin-top: 0;
+}
+
+nav {
+    display: flex;
+    gap: 20px;
+    padding: 18px 0;
+    border-bottom: 1px solid #ddd;
+}
+
+nav a {
+    text-decoration: none;
+    color: #1e40af;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #60a5fa;
+}
+
+main {
+    min-height: 250px;
+    padding: 20px 0;
+}
+
+button,
+.btn {
+    background: #2563eb;
+    color: white;
+    border: none;
+    padding: 10px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+button:hover,
+.btn:hover {
+    background: #1d4ed8;
+}
+
+input,
+select {
+    padding: 9px;
+    border: 1px solid #cbd5e1;
+    border-radius: 5px;
+}
+
+footer {
+    background: #e2e8f0;
+    text-align: center;
+    padding: 15px;
+    border-radius: 6px;
+}
+
+.btn-edit {
+    display: inline-block;
+    background-color: #2864e8;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.btn-edit:hover {
+    background-color: #174fc5;
+    color: white;
+}
